@@ -10,12 +10,14 @@ This is my Portfolio Website
 ## Project SetUp and Instructions
 #### To set up and run the project follow the below steps
 
-
-git clone git@github.com:kipkirui63/sang-s-website.git
+```
+git clone https://github.com/kipkirui63/sang-s-website.git
 git init
 git add <filename>
 git commit -m "initial commmit"
 git push origin master
+
+```
 
 
 ### Technologies Used
@@ -32,6 +34,7 @@ JavaScript
 
 
 ### Project Design
+![Screenshot from 2023-06-13 15-17-16](https://github.com/kipkirui63/sang-s-website/assets/132657975/47335bc8-51b6-4ea3-821e-fa2fa54409eb)
 
 ### Known Bugs
 #### There are no known bugs, incase of any please raise an issue
