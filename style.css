@@ -26,7 +26,7 @@ header {
     padding: 10px;
 }
 .navbar a:hover{
- color: blue;
+ color: gold;
 }
 
 .container {
@@ -69,10 +69,12 @@ button{
     font-size: 16px;
 }
 button a:hover{
-    color: blue;
+    color: gold;
    }
 .portfolio{
     text-align: center;
+    display: block;
+    flex-direction: column;
 }
 .portfolio h1 {
     margin-bottom: 10px;
@@ -113,7 +115,7 @@ footer li a {
 }
 
 footer li a:hover {
-    color: blue;
+    color: gold;
     text-decoration: none;
 }
 h1{
@@ -135,17 +137,89 @@ h1,h2,h3,h4,h5,h6,p{
 
 }
 .left{
-    background-color: aqua;
     height: 200px;
     width: 50%vw;
 }
 .right{
-    background-color: red;
     height: 200px;
     width: 50%vw;
 }
 .header-line{
     border-top: 1px solid white;
+}
+
+#action{
+    display: inline-block;
+}
+label{
+    display: block;
+}
+.html{
+    height: 24px;
+    width: 180px;
+    color: antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.css{
+    height: 24px;
+    width: 180px;
+    color: antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.javascript{
+    height: 24px;
+    width: 180px;
+    color: antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.react{
+    height: 24px;
+    width: 180px;
+    color: antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.sass{
+    height: 24px;
+    width: 180px;
+    color:antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.greenShock{
+    height: 24px;
+    width: 180px;
+    color: antiquewhite;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.charge{
+    height: 12px;
+    width: 150px;
+    align-self: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 4px ;
+    background-color: blue;
+    margin-bottom: 90px;
+    border-radius: 10px;
+    top: 10px;
 }
 
 
