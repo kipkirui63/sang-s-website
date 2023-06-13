@@ -19,7 +19,6 @@ git push origin master
 
 ```
 
-
 ### Technologies Used
 
 Html
